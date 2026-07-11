@@ -1,5 +1,17 @@
-# 💫 About Me:
-🔭 I’m currently working on building modern web apps with React and Tailwind CSS.<br><br>👯 I’m looking to collaborate on innovative Front-End projects and open-source UI libraries.<br><br>🤝 I’m looking for help with mastering advanced JavaScript patterns and Web Performance.<br><br>🌱 I’m currently learning TypeScript and Next.js to build scalable applications.<br><br>💬 Ask me about HTML, CSS, Responsive Design, and Clean Code.<br><br>⚡ Fun fact I have 99 tabs open, and I know exactly where each one is! 💻
+# 💫 About Me
+
+🔭 I’m a Front-End Developer focused on building modern, responsive, and user-friendly web applications using React and Tailwind CSS.
+
+👯 I’m open to collaborating on creative Front-End projects, open-source contributions, and UI component libraries.
+
+🌱 I’m currently expanding my skills in TypeScript and Next.js to build scalable and maintainable applications.
+
+🤝 I’m working on improving my knowledge of advanced JavaScript concepts, web performance, and Front-End architecture.
+
+💬 Feel free to ask me about HTML, CSS, JavaScript, responsive design, clean code, and modern UI development.
+
+⚡ Fun fact: I usually have 99 tabs open, but somehow I still know where everything is.
+
 
 
 ## 🌐 Socials:
